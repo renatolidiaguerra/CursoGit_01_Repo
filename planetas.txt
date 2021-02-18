@@ -2,3 +2,6 @@ Marte
 Terra
 Saturno
 Jupiter
+
+Unano
+Netuno
